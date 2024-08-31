@@ -1,0 +1,47 @@
+
+.caldes {
+    padding: 20px;
+    border-radius: 1.5em;
+    height: 600px;
+    width: 400px;
+    background-color: #D6DBDF;
+}
+.display-box {
+    background-color: #2E4053;
+    border: solid black 0.5px;
+    color: white;
+    border-radius: 5px;
+    width: 210px;
+    height: 80px;
+    font-size: 30px;
+    letter-spacing:3px;
+}
+input[type=button] {
+ display: inline-block;
+padding: 15px 25px;
+font-size: 24px;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+outline: none;
+color: #fff;
+background-color: #04AA6D;
+border: none;
+border-radius: 15px;
+box-shadow: 0 5px #808B96;
+    background-color: #5D6D7E;
+    color: white;
+    border: solid black 1px;
+    border-radius: 5px;
+    width: 100px;
+    height: 80px;
+}
+input:active[type=button] {
+ background-color: #3e8e41;
+box-shadow: 0 5px #666;
+transform: translateY(4px);
+    background: #e5e5e5;
+}
+#btn {
+    background-color: #E59866;
+}
